@@ -1,0 +1,66 @@
+[
+  
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
